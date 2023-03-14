@@ -1,6 +1,7 @@
 Rangkuman
 
 artikel Wikipedia tentang Cloud Computing
+
 Cloud computing adalah ketersediaan sumber daya sistem komputer sesuai permintaan, terutama penyimpanan data dan daya komputasi, tanpa manajemen aktif langsung oleh pengguna. Istilah ini umumnya digunakan untuk menggambarkan pusat data yang tersedia bagi banyak pengguna melalui Internet.
 Pendukung cloud publik dan hybrid mencatat bahwa cloud computing memungkinkan perusahaan untuk menghindari atau meminimalkan biaya infrastruktur IT di muka. Para pendukung juga mengklaim bahwa cloud computing memungkinkan perusahaan untuk menjalankan aplikasi mereka lebih cepat, dengan pengelolaan yang lebih baik dan lebih sedikit pemeliharaan, dan memungkinkan tim IT untuk lebih cepat menyesuaikan sumber daya untuk memenuhi permintaan yang berfluktuasi dan tak terduga, memberikan kapabilitas komputasi yang luar biasa: daya komputasi yang tinggi pada periode permintaan puncak tertentu.
 Ketersediaan jaringan berkapasitas tinggi, komputer murah dan perangkat penyimpanan serta adopsi luas virtualisasi perangkat keras, arsitektur berorientasi layanan, dan komputasi otonom dan utilitas telah menyebabkan pertumbuhan dalam komputasi awan.
@@ -9,19 +10,19 @@ Cloud computing dipopulerkan dengan Amazon.com merilis produk Elastic Compute Cl
 Karakteristik
 Komputasi awan menunjukkan karakteristik utama berikut:
 
-    Kelincahan untuk organisasi dapat ditingkatkan, karena komputasi awan dapat meningkatkan fleksibilitas pengguna dengan penyediaan kembali, menambah, atau memperluas sumber daya infrastruktur teknologi.
-    Pengurangan biaya diklaim oleh penyedia cloud.
-    Kemandirian perangkat dan lokasi memungkinkan pengguna untuk mengakses sistem menggunakan browser web terlepas dari lokasi mereka atau perangkat apa yang mereka gunakan (mis., PC, ponsel).
-    Pemeliharaan aplikasi komputasi awan lebih mudah, karena tidak perlu diinstal pada setiap komputer pengguna dan dapat diakses dari tempat yang berbeda
-    Multitenancy memungkinkan berbagi sumber daya dan biaya di sejumlah besar pengguna sehingga memungkinkan untuk:
-    sentralisasi infrastruktur di lokasi dengan biaya lebih rendah
-    peningkatan kapasitas beban puncak (pengguna tidak perlu merekayasa dan membayar sumber daya dan peralatan untuk memenuhi tingkat beban setinggi mungkin)
-    peningkatan pemanfaatan dan efisiensi untuk sistem yang sering hanya dimanfaatkan 10-20%.
-    Kinerja dipantau oleh para pakar IT dari penyedia layanan, dan arsitektur yang konsisten dan longgar dibuat menggunakan layanan web sebagai antarmuka sistem.
-    Produktivitas dapat ditingkatkan ketika banyak pengguna dapat bekerja pada data yang sama secara bersamaan
-    Keandalan ditingkatkan dengan penggunaan beberapa situs berlebih, yang membuat komputasi awan yang dirancang dengan baik cocok untuk kelangsungan bisnis dan pemulihan bencana.
-    Skalabilitas dan elastisitas melalui penyediaan sumber daya dinamis ("sesuai permintaan") yang dinamis,
-    Keamanan dapat meningkat karena sentralisasi data, peningkatan sumber daya yang berfokus pada keamanan, dll.
+Kelincahan untuk organisasi dapat ditingkatkan, karena komputasi awan dapat meningkatkan fleksibilitas pengguna dengan penyediaan kembali, menambah, atau memperluas sumber daya infrastruktur teknologi.
+Pengurangan biaya diklaim oleh penyedia cloud.
+Kemandirian perangkat dan lokasi memungkinkan pengguna untuk mengakses sistem menggunakan browser web terlepas dari lokasi mereka atau perangkat apa yang mereka gunakan (mis., PC, ponsel).
+Pemeliharaan aplikasi komputasi awan lebih mudah, karena tidak perlu diinstal pada setiap komputer pengguna dan dapat diakses dari tempat yang berbeda
+Multitenancy memungkinkan berbagi sumber daya dan biaya di sejumlah besar pengguna sehingga memungkinkan untuk:
+sentralisasi infrastruktur di lokasi dengan biaya lebih rendah
+peningkatan kapasitas beban puncak (pengguna tidak perlu merekayasa dan membayar sumber daya dan peralatan untuk memenuhi tingkat beban setinggi mungkin)
+peningkatan pemanfaatan dan efisiensi untuk sistem yang sering hanya dimanfaatkan 10-20%.
+Kinerja dipantau oleh para pakar IT dari penyedia layanan, dan arsitektur yang konsisten dan longgar dibuat menggunakan layanan web sebagai antarmuka sistem.
+Produktivitas dapat ditingkatkan ketika banyak pengguna dapat bekerja pada data yang sama secara bersamaan
+Keandalan ditingkatkan dengan penggunaan beberapa situs berlebih, yang membuat komputasi awan yang dirancang dengan baik cocok untuk kelangsungan bisnis dan pemulihan bencana.
+Skalabilitas dan elastisitas melalui penyediaan sumber daya dinamis ("sesuai permintaan") yang dinamis,
+Keamanan dapat meningkat karena sentralisasi data, peningkatan sumber daya yang berfokus pada keamanan, dll.
 
 Model Servis
 Infrastruktur sebagai layanan (IaaS)
